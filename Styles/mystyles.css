@@ -25,22 +25,18 @@ body{
     
 }
 li {
-    color: white;
+    color:black;
 }
 ul {
-    color: white;
+    color: black;
 }
 .img {
     opacity: .50;
 }
-
-.yeah {
-    background-image: url(../Images/mtns.jpg);
-}
 .white {
-    color: white;
+    color: black;
 }
 
 .font {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
