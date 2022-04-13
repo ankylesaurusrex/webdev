@@ -1,0 +1,30 @@
+body{
+    background-color: beige;
+}
+
+.bold {
+    font-weight: bold;
+}
+.italic {
+    font-style: italic;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.centertext {
+      text-align: center;
+  }
+.red {
+      color: red;
+  }
+
+
+  .centertab {
+    margin: auto;
+    max-width: 750px;
+    
+}
